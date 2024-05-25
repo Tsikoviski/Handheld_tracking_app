@@ -1,6 +1,6 @@
-# MPS Radio Tracking App
+# Handheld Tracking App
 
-MPS Radio Tracking App is a Flask-based web application designed to manage the tracking of radios at a port and harbor facility. It allows port workers to log in, view available radios, issue radios to users, and track the status of issued radios.
+Handheld Tracking App is a Flask-based web application designed to manage the tracking of radios at a port and harbor facility. It allows port workers to log in, view available radios, issue radios to users, and track the status of issued radios.
 
 ## Features
 
